@@ -1,2 +1,9 @@
-# TipTap-SpeechSynthesis
-This extension enables speech synthesis on the TipTap text editor
+# speechsynthesis
+
+A fresh Tiptap extension.
+
+## Installation
+
+```bash
+npm install speechsynthesis
+```
